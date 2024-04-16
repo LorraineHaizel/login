@@ -1,0 +1,17 @@
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\bin\Debug\net8.0-windows\log in acc.exe
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\bin\Debug\net8.0-windows\log in acc.deps.json
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\bin\Debug\net8.0-windows\log in acc.runtimeconfig.json
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\bin\Debug\net8.0-windows\log in acc.dll
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\bin\Debug\net8.0-windows\log in acc.pdb
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log_in_acc.fb.resources
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.csproj.GenerateResource.cache
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.AssemblyInfoInputs.cache
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.AssemblyInfo.cs
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.csproj.CoreCompileInputs.cache
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.dll
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\refint\log in acc.dll
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.pdb
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log in acc.genruntimeconfig.cache
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\ref\log in acc.dll
+C:\Users\Lorraine Haizel\source\repos\log in acc\log in acc\obj\Debug\net8.0-windows\log_in_acc.Sign_Up_design.resources
